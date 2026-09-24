@@ -18,12 +18,8 @@ The required operation is selected using control inputs, and the corresponding o
 ## Features
 
 - 2-bit binary input processing
-- Arithmetic operations:
-  - Addition
-  - Subtraction
-- Logical operations:
-  - AND
-  - OR
+- Arithmetic operations: Addition and Subtraction
+- Logical operations: AND and OR
 - Operation selection using control inputs
 - Designed and verified using Proteus
 - Built using fundamental digital logic concepts
@@ -52,7 +48,7 @@ The complete 2-bit ALU circuit was designed and simulated in **Proteus** using d
 
 ### Project Screenshot
 
-![2-Bit ALU Proteus Circuit](images/2-bit-alu.png)
+![2-Bit ALU Proteus Circuit](2-bit-alu.png)
 
 ## Tools & Technologies
 
